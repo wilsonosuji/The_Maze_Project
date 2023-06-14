@@ -14,7 +14,7 @@ The Maze was written was written in `C` ussing `SDL2` library. Deveploment was p
 
 ## Instalation 
 ```sh
-$ git clone https://github.com/AsuweRich/The-Maze-Project.git
+$ git clone https://github.com/wilsonosuji/The-Maze-Project.git
 ```
 ## Usage 
 * Use up and down arrow keys to move forward and backward (keys `w` and `s` serve the same function)
@@ -37,19 +37,19 @@ where ```MAP``` is the name of the file found in the maps folder. You can create
 
 ## Directories
 
-[`src`](https://github.com/AsuweRich/The-Maze-Project/tree/main/src)
+[`src`](https://github.com/wilsonosuji/The-Maze-Project/tree/main/src)
 
 Contains all the source code files written in C.
 
-[`inc`](https://github.com/AsuweRich/The-Maze-Project/tree/main/inc)
+[`inc`](https://github.com/wilsonosuji/The-Maze-Project/tree/main/inc)
 
 Contains all the header files.
 
-[`maps`](https://github.com/AsuweRich/The-Maze-Project/tree/main/maps)
+[`maps`](https://github.com/wilsonosuji/The-Maze-Project/tree/main/maps)
 
 Contains map data files. This will be used by the program to output the map layout.
 
-[`images`](https://github.com/AsuweRich/The-Maze-Project/tree/main/images)
+[`images`](https://github.com/wilsonosuji/The-Maze-Project/tree/main/images)
 
 Contains image files.
 
