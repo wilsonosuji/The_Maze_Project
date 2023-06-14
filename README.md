@@ -77,4 +77,4 @@ https://www.seekpng.com/idown/u2w7u2t4i1y3a9y3_call-of-duty-guns-firearms-gun-we
 [![The Maze Demo](https://i.imgur.com/5Ss7s1S.png)](https://www.youtube.com/embed/6T2N8gNUTQ8)
 
 ## Author
-Nene Eye [@neneeye](https://github.com/neneeye) <neneeye@gmail.com>
+Wilson Osuji [@Wilsonosuji](https://github.com/wilsonosuji) <wilsonosuji88@gmail.com>
